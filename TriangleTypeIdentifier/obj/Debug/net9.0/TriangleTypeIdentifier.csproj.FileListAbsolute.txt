@@ -1,0 +1,15 @@
+/Users/joe/Desktop/DCIT 318-ASS1/TriangleTypeIdentifier/bin/Debug/net9.0/TriangleTypeIdentifier
+/Users/joe/Desktop/DCIT 318-ASS1/TriangleTypeIdentifier/bin/Debug/net9.0/TriangleTypeIdentifier.deps.json
+/Users/joe/Desktop/DCIT 318-ASS1/TriangleTypeIdentifier/bin/Debug/net9.0/TriangleTypeIdentifier.runtimeconfig.json
+/Users/joe/Desktop/DCIT 318-ASS1/TriangleTypeIdentifier/bin/Debug/net9.0/TriangleTypeIdentifier.dll
+/Users/joe/Desktop/DCIT 318-ASS1/TriangleTypeIdentifier/bin/Debug/net9.0/TriangleTypeIdentifier.pdb
+/Users/joe/Desktop/DCIT 318-ASS1/TriangleTypeIdentifier/obj/Debug/net9.0/TriangleTypeIdentifier.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joe/Desktop/DCIT 318-ASS1/TriangleTypeIdentifier/obj/Debug/net9.0/TriangleTypeIdentifier.AssemblyInfoInputs.cache
+/Users/joe/Desktop/DCIT 318-ASS1/TriangleTypeIdentifier/obj/Debug/net9.0/TriangleTypeIdentifier.AssemblyInfo.cs
+/Users/joe/Desktop/DCIT 318-ASS1/TriangleTypeIdentifier/obj/Debug/net9.0/TriangleTypeIdentifier.csproj.CoreCompileInputs.cache
+/Users/joe/Desktop/DCIT 318-ASS1/TriangleTypeIdentifier/obj/Debug/net9.0/TriangleTypeIdentifier.sourcelink.json
+/Users/joe/Desktop/DCIT 318-ASS1/TriangleTypeIdentifier/obj/Debug/net9.0/TriangleTypeIdentifier.dll
+/Users/joe/Desktop/DCIT 318-ASS1/TriangleTypeIdentifier/obj/Debug/net9.0/refint/TriangleTypeIdentifier.dll
+/Users/joe/Desktop/DCIT 318-ASS1/TriangleTypeIdentifier/obj/Debug/net9.0/TriangleTypeIdentifier.pdb
+/Users/joe/Desktop/DCIT 318-ASS1/TriangleTypeIdentifier/obj/Debug/net9.0/TriangleTypeIdentifier.genruntimeconfig.cache
+/Users/joe/Desktop/DCIT 318-ASS1/TriangleTypeIdentifier/obj/Debug/net9.0/ref/TriangleTypeIdentifier.dll
