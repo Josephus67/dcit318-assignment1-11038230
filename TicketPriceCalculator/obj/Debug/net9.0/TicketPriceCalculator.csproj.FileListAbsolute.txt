@@ -1,0 +1,15 @@
+/Users/joe/Desktop/DCIT 318-ASS1/TicketPriceCalculator/bin/Debug/net9.0/TicketPriceCalculator
+/Users/joe/Desktop/DCIT 318-ASS1/TicketPriceCalculator/bin/Debug/net9.0/TicketPriceCalculator.deps.json
+/Users/joe/Desktop/DCIT 318-ASS1/TicketPriceCalculator/bin/Debug/net9.0/TicketPriceCalculator.runtimeconfig.json
+/Users/joe/Desktop/DCIT 318-ASS1/TicketPriceCalculator/bin/Debug/net9.0/TicketPriceCalculator.dll
+/Users/joe/Desktop/DCIT 318-ASS1/TicketPriceCalculator/bin/Debug/net9.0/TicketPriceCalculator.pdb
+/Users/joe/Desktop/DCIT 318-ASS1/TicketPriceCalculator/obj/Debug/net9.0/TicketPriceCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joe/Desktop/DCIT 318-ASS1/TicketPriceCalculator/obj/Debug/net9.0/TicketPriceCalculator.AssemblyInfoInputs.cache
+/Users/joe/Desktop/DCIT 318-ASS1/TicketPriceCalculator/obj/Debug/net9.0/TicketPriceCalculator.AssemblyInfo.cs
+/Users/joe/Desktop/DCIT 318-ASS1/TicketPriceCalculator/obj/Debug/net9.0/TicketPriceCalculator.csproj.CoreCompileInputs.cache
+/Users/joe/Desktop/DCIT 318-ASS1/TicketPriceCalculator/obj/Debug/net9.0/TicketPriceCalculator.sourcelink.json
+/Users/joe/Desktop/DCIT 318-ASS1/TicketPriceCalculator/obj/Debug/net9.0/TicketPriceCalculator.dll
+/Users/joe/Desktop/DCIT 318-ASS1/TicketPriceCalculator/obj/Debug/net9.0/refint/TicketPriceCalculator.dll
+/Users/joe/Desktop/DCIT 318-ASS1/TicketPriceCalculator/obj/Debug/net9.0/TicketPriceCalculator.pdb
+/Users/joe/Desktop/DCIT 318-ASS1/TicketPriceCalculator/obj/Debug/net9.0/TicketPriceCalculator.genruntimeconfig.cache
+/Users/joe/Desktop/DCIT 318-ASS1/TicketPriceCalculator/obj/Debug/net9.0/ref/TicketPriceCalculator.dll
